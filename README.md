@@ -19,11 +19,10 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Logic Diagram
 ## Procedure
 ## Program:
-/*
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+Developed by: Kamal raj A
+RegisterNumber:212223040082  
+![Screenshot 2023-12-22 130102](https://github.com/vasanthkumarch/Experiment--02-Implementation-of-combinational-logic-/assets/145742556/21d4b4a7-178e-4b11-923f-165868a733f0)
 ## RTL realization
 
 ## Output:
