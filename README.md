@@ -29,10 +29,13 @@ the wizard's instructions to set up your project, including specifying
 the project name, location, and target device (FPGA).
 
 2. Create a New Design File:
+
+
 *Once the project is created, right-click on the project name in the Project Navigator and select "Add New File."
 *Choose "Verilog HDL File" or "VHDL File," depending on your chosen hardware description language.
 
-4. Write the Combinational Logic Code:
+3. Write the Combinational Logic Code:
+  
 *Open the newly created Verilog or VHDL file and write the code for your combinational logic.
 
 4.Compile the Project:
