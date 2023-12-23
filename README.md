@@ -1,3 +1,5 @@
+## Name : Kamal raj A
+## Reg. no: 23012941
 ## Experiment--02-Implementation-of-combinational-logic
 
 ## AIM:
