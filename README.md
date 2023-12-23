@@ -76,7 +76,8 @@ endmodule
 ![WhatsApp Image 2023-12-22 at 14 07 03_020500d0](https://github.com/Kamal-Raj-A/Experiment--02-Implementation-of-combinational-logic-/assets/145742556/5e57d2a5-c8e3-4ba8-988e-042ebba5119b)
 
 ## Timing Diagram
-![WhatsApp Image 2023-12-22 at 14 08 05_1fe38924](https://github.com/Kamal-Raj-A/Experiment--02-Implementation-of-combinational-logic-/assets/145742556/38aca82e-27a4-42f4-8fe9-afc41b47c805)
+![IMG_20231223_100210](https://github.com/Kamal-Raj-A/Experiment--02-Implementation-of-combinational-logic-/assets/145742556/61447713-d289-43b1-a284-df6ea5067c3c)
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
